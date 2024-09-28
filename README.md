@@ -44,5 +44,7 @@ Windows
    python manage.py runserver
   ```
 
+### *** MAKE SURE IT RUNS ON PORT 8000 *** ###
+
   
 
